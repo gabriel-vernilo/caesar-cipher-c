@@ -1,4 +1,4 @@
-#Bhaskara - Second degree
+# Caesar Cipher : Encoder and Decoder
 
 this project is just for study/practice "C" programming language. my cyber-security teacher (Rafael Sousa) gave it to me as an exercise
 
