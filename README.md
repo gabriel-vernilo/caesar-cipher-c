@@ -2,7 +2,7 @@
 
 this project is just for study/practice "C" programming language. my cyber-security teacher (Rafael Sousa) gave it to me as an exercise
 
-#what's Caesar Cipher?
+# what's Caesar Cipher?
 
 In cryptography, Caesar's Cipher, also known as exchange cipher, Caesar's code or Caesar's exchange, is one of the simplest and most known cryptography techniques
 
@@ -14,11 +14,24 @@ Normal:  ABCDEFGHIJKLMNOPQRSTUVWXYZ
 Encoded: DEFGHIJKLMNOPQRSTUVWXYZABC
 
 
-# how to use:
+# how to use (multiples shifts/keys) to encode and decode
 
-if you uses windows : just install and run the executable file (.exe)
 
-if you uses Linux, sorry you have to build (compile) the ".c" file.
+if you uses windows : just install and run the executable file (caesar_cipher_custom.exe)
+
+if you uses Linux or macOS, sorry you have to build (compile) the "caesar_cipher_custom.c" file
+
+results:
+
+![image](https://user-images.githubusercontent.com/53917092/79392801-5cd51f80-7f4a-11ea-9d4e-aff432e90902.png)
+
+![image](https://user-images.githubusercontent.com/53917092/79392861-75453a00-7f4a-11ea-9330-580e64e95852.png)
+
+# how to use (locked in shift/key 3):
+
+if you uses windows : just install and run the executable file (caesar_cYpher.exe)
+
+if you uses Linux or macOS, sorry you have to build (compile) the "caesar_cYpher.c" file.
 
 
 results :
