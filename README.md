@@ -1,4 +1,4 @@
-# Caesar Cipher : Encoder and Decoder
+# Caesar Cipher : Encoder, Decoder and BruteForce
 
 this project is just for study/practice "C" programming language. my cyber-security teacher (Rafael Sousa) gave it to me as an exercise
 
@@ -15,48 +15,26 @@ Normal:  ABCDEFGHIJKLMNOPQRSTUVWXYZ
 Encoded: DEFGHIJKLMNOPQRSTUVWXYZABC
 
 
-# how to use (multiples shifts/keys) to encode and decode
+# how to use 
 
 
-if you uses windows : just install and run the executable file (caesar_cipher_custom.exe)
+if you uses windows : just install the executable file (caesar_cipher.exe)
 
-if you uses Linux or macOS, sorry you have to build (compile) the "caesar_cipher_custom.c" file
+if you uses Linux or macOS, sorry you have to build (compile) the "caesar_cipher.c" file
+
+now run the executable =>
 
 results:
 
-![image](https://user-images.githubusercontent.com/53917092/79392801-5cd51f80-7f4a-11ea-9d4e-aff432e90902.png)
+# Encoding
 
-![image](https://user-images.githubusercontent.com/53917092/79392861-75453a00-7f4a-11ea-9330-580e64e95852.png)
+![image](https://user-images.githubusercontent.com/53917092/79582568-53f76180-80a2-11ea-81bc-3f6692e3b3af.png)
 
-# typing shift running in a Terminal/Cmd/msdos 
+# Decoding
 
-in windows you can use caesar_cipher_s.exe : with terminal in file directory type:
-`caesar_cipher_s.exe {shift}`
+![image](https://user-images.githubusercontent.com/53917092/79582686-78533e00-80a2-11ea-859d-5e5ff0664035.png)
 
-in other sistems, build/compile cease_cipher_s.c before execute in a terminal.
+# BruteForce decoding 
 
-encoding: 
-
-![image](https://user-images.githubusercontent.com/53917092/79515390-dd655000-801e-11ea-8956-22b40a87e04a.png)
-
-![image](https://user-images.githubusercontent.com/53917092/79515398-e7874e80-801e-11ea-901b-d6b4ae47655c.png)
-
-decoding:
-
-![image](https://user-images.githubusercontent.com/53917092/79515422-fa018800-801e-11ea-9edb-614ad87a68ac.png)
-
-![image](https://user-images.githubusercontent.com/53917092/79515443-0685e080-801f-11ea-82c0-2e953a93d8ed.png)
-
-# how to use (locked in shift/key 3):
-
-if you uses windows : just install and run the executable file (caesar_cYpher.exe)
-
-if you uses Linux or macOS, sorry you have to build (compile) the "caesar_cYpher.c" file.
-
-
-results :
-
-![image](https://user-images.githubusercontent.com/53917092/79345433-7bfe8d80-7f07-11ea-805b-a89362ddd690.png)
-
-![image](https://user-images.githubusercontent.com/53917092/79345495-93d61180-7f07-11ea-974b-a64ae3981c99.png)
+![image](https://user-images.githubusercontent.com/53917092/79582818-a9337300-80a2-11ea-88d3-7aa2c4e0ec8d.png)
 
